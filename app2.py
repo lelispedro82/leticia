@@ -3,9 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_excel("C:/Users/lelis/OneDrive/Área de Trabalho/dados_r.xlsx")
+df = pd.read_excel("dados_r.xlsx")
 
-st.title("📊 Excesso de confiança e desempenho financeiro por Ano e por setor")
+st.title("📊 Excesso de confiança e desempenho financeiro por Ano e por Setor")
 st.write("Este é o produto técnico com os dados da dissertação da Letícia 🎉")
 
 # === Filtros no Sidebar teste3 ===

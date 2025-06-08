@@ -5,7 +5,7 @@ import seaborn as sns
 
 df = pd.read_excel("dados_r.xlsx")
 
-st.title("📊 Excesso de confiança e desempenho financeiro por Ano e por Setor")
+st.title("📊 Excesso de confiança e Desempenho financeiro por ano e por setor")
 st.write("Este é o produto técnico com os dados da dissertação da Letícia 🎉")
 
 # === Filtros no Sidebar teste3 ===

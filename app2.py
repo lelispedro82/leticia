@@ -56,3 +56,6 @@ if variavel_desempenho in df_filtrado.columns:
 else:
     st.warning(f"⚠️ A coluna '{variavel_desempenho}' não está disponível no DataFrame.")
 
+git add requirements.txt
+git commit -m "Adiciona requirements.txt com dependências"
+git push
